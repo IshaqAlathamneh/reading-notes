@@ -2,6 +2,7 @@
 ## Growth mindset
 The concept of a growth mindset is a popular topic lately, we can identify that as believing in development ability and there's no impossible
 ### Deference between mindset's types
+
 |                   | Growth              | Fixed              |
 | ----------------- | :------------------:| ------------------:|
 | Challenges        | Embraces            | Avoids             |
