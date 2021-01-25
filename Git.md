@@ -76,3 +76,10 @@ For cloned repositories, Git will automatically give the name “origin” to th
 By running the `git remote` command, you can view the short names, such as “origin,” of all specified remote handles.
 
 By using `git remote -v`, you can view all the remote URLs next to their corresponding short names.
+
+***Contact me***
+
+[LinkedIn](https://www.linkedin.com/in/ishaq-alathamneh-b075101b7/)
+[WhatsApp](https://wa.me/00962787090560)
+[FaceBook](https://www.facebook.com/eshaq.at/)
+[Twitter](https://twitter.com/EshaqAthamnah)
