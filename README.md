@@ -7,10 +7,8 @@ I'm with you today to show you some important subjects.
 
 
 | Table Of Content  | 
-| :-----------------: |  
-| Challenges        |  
-| Obstacles         |           
-| Effort            |  
-| Criticism         | 
-| Others' success   |  
-| The result        |
+| :-----------------: | 
+ | [Intro](https://ishaqalathamneh.github.io/reading-notes/)        |  
+| [Mindset](https://ishaqalathamneh.github.io/reading-notes/mindset)|  
+| [Markdown](https://ishaqalathamneh.github.io/reading-notes/markdown)|           
+| [Git](https://ishaqalathamneh.github.io/reading-notes/Git)        |  
