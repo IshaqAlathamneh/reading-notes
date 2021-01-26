@@ -10,5 +10,5 @@ I'm with you today to show you some important subjects.
 | :-----------------: | 
  | [Intro](https://ishaqalathamneh.github.io/reading-notes/)        |  
 | [Mindset](https://ishaqalathamneh.github.io/reading-notes/mindset)|  
-| [Markdown](https://ishaqalathamneh.github.io/reading-notes/markdown)|           
+| [Markdown](https://ishaqalathamneh.github.io/reading-notes/Markdown)|           
 | [Git](https://ishaqalathamneh.github.io/reading-notes/Git)        |  
