@@ -5,3 +5,4 @@
 | Table Of Content  | 
 | :-----------------: | 
  | [Intro](https://ishaqalathamneh.github.io/reading-notes/)        |  
+ | [Class-01](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-01) |
