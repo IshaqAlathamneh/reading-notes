@@ -6,3 +6,4 @@
 | :-----------------: | 
  | [Intro](https://ishaqalathamneh.github.io/reading-notes/)        |  
  | [Class-01](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-01) |
+| [Class-02](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-02) |
