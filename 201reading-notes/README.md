@@ -8,3 +8,4 @@
  | [Class-01](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-01) |
 | [Class-02](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-02) |
 | [Class-03](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-03) |
+| [Class-04](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-04) |
