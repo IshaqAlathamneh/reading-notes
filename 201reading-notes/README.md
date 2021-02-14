@@ -11,3 +11,4 @@
 | [Class-04](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-04) |
 | [Class-05](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-05) |
 | [Class-06](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-06) |
+| [Class-07](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-07) |
