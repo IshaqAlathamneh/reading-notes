@@ -18,3 +18,5 @@
 | [Class-11](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-11) |
 | [Class-12](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-12) |
 | [Class-13](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-13) |
+| [Class-14](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-14) |
+| [Class-15](https://ishaqalathamneh.github.io/reading-notes/201reading-notes/class-15) |
