@@ -9,6 +9,6 @@ I'm with you today to show you some important subjects.
 | Table Of Content  | 
 | :-----------------: | 
  | [Intro](https://ishaqalathamneh.github.io/reading-notes/102read/)        |  
-| [Mindset](https://ishaqalathamneh.github.io/reading-notes/102read/mindset)|  
+| [Mindset](https://ishaqalathamneh.github.io/reading-notes/102read/Mindset)|  
 | [Markdown](https://ishaqalathamneh.github.io/reading-notes/102read/Markdown)|           
 | [Git](https://ishaqalathamneh.github.io/reading-notes/102read/Git)        |  
