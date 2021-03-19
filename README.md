@@ -1,14 +1,12 @@
-# reading-notes
+# Reading Notes
 
-## My introduction
-I'm glad to interduce my self as Ishaq Alathamneh, I'm 22 years old, I have studied mechanical engineering at Al Balqa Applied University.
-I'm with you today to show you some important subjects.
+***This website contain a summrize of some courses at LTUC-ASAC***
 
-
-
-| Table Of Content  | 
-| :-----------------: | 
- | [Intro](https://ishaqalathamneh.github.io/reading-notes/)        |  
-| [Mindset](https://ishaqalathamneh.github.io/reading-notes/mindset)|  
-| [Markdown](https://ishaqalathamneh.github.io/reading-notes/Markdown)|           
-| [Git](https://ishaqalathamneh.github.io/reading-notes/Git)        |  
+## Code 102 - Intro to Software Development
+[Go to 102 reading notes](https://ishaqalathamneh.github.io/reading-notes/102read)
+## Code 201 - Foundations of Software Development
+[Go to 201 reading notes](https://ishaqalathamneh.github.io/reading-notes/201reading-notes)
+## Code 301 - Intermediate Software Development
+[Go to 301 reading notes](https://ishaqalathamneh.github.io/reading-notes/301read)
+## Code 401 - Advanced Software Development
+<!-- [Go to 401 reading notes](https://ishaqalathamneh.github.io/reading-notes/401read) -->
