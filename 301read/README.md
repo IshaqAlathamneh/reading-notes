@@ -9,4 +9,4 @@ I'm with you today to show you some important subjects.
 | Table Of Content  | 
 | :-----------------: | 
  | [Intro](https://ishaqalathamneh.github.io/reading-notes/301read/)        |  
-| [Mindset](https://ishaqalathamneh.github.io/reading-notes/301read/read01)|  
+| [read01](https://ishaqalathamneh.github.io/reading-notes/301read/read01)|  
