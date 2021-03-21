@@ -21,3 +21,11 @@ When you select one or more elements, a jQuery object is reTurned. It is also kn
 you can host the jQuery file in your website or use a version that hosted by other companies.
 
 ![image](images/rd1.png)
+
+#### Pair Programming
+1. Greater efficiency
+1. Engaged collaboration
+1. Learning from fellow students
+1. Social skills
+1. Job interview readiness
+1. Work environment readiness
