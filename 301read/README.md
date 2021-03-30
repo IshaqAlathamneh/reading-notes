@@ -16,3 +16,4 @@ I'm with you today to show you some important subjects.
 | [read05](https://ishaqalathamneh.github.io/reading-notes/301read/read05)|
 | [read06](https://ishaqalathamneh.github.io/reading-notes/301read/read06)|
 | [read07](https://ishaqalathamneh.github.io/reading-notes/301read/read07)|
+| [read08](https://ishaqalathamneh.github.io/reading-notes/301read/read08)|
