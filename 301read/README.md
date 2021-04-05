@@ -20,3 +20,4 @@ I'm with you today to show you some important subjects.
 | [read09](https://ishaqalathamneh.github.io/reading-notes/301read/read09)|
 | [read10](https://ishaqalathamneh.github.io/reading-notes/301read/read10)|
 | [read11](https://ishaqalathamneh.github.io/reading-notes/301read/read11)|
+| [read12](https://ishaqalathamneh.github.io/reading-notes/301read/read12)|
