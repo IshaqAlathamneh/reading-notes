@@ -9,4 +9,6 @@ I'm with you today to show you some important subjects.
 | Table Of Content  | 
 | :-----------------: | 
  | [Intro](https://ishaqalathamneh.github.io/reading-notes/401read/)        |  
-| [read01](https://ishaqalathamneh.github.io/reading-notes/401read/read01)|  
+| [read01](https://ishaqalathamneh.github.io/reading-notes/401read/read01)| 
+| [class01](https://ishaqalathamneh.github.io/reading-notes/401read/class01)| 
+| [class02](https://ishaqalathamneh.github.io/reading-notes/401read/class02)| 
