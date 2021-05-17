@@ -1,4 +1,4 @@
-# Class 06
+# Class 07
 
 ## Questions
 1. Write the following steps in the correct order
