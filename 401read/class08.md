@@ -14,7 +14,6 @@
     * Use environment variables
     * Use "Secrets as a service" solutions
 
-## Vocabularies
 
 
 
