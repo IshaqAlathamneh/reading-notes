@@ -19,3 +19,4 @@ I'm with you today to show you some important subjects.
 | [class07](https://ishaqalathamneh.github.io/reading-notes/401read/class07)|
 | [class08](https://ishaqalathamneh.github.io/reading-notes/401read/class08)|
 | [class09](https://ishaqalathamneh.github.io/reading-notes/401read/class09)|
+| [class10](https://ishaqalathamneh.github.io/reading-notes/401read/class10)|
