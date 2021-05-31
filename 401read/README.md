@@ -27,3 +27,4 @@ I'm with you today to show you some important subjects.
 | [class15](https://ishaqalathamneh.github.io/reading-notes/401read/class15)|
 | [class16](https://ishaqalathamneh.github.io/reading-notes/401read/class16)|
 | [class17](https://ishaqalathamneh.github.io/reading-notes/401read/class17)|
+| [class18](https://ishaqalathamneh.github.io/reading-notes/401read/class18)|
