@@ -29,3 +29,4 @@ I'm with you today to show you some important subjects.
 | [class17](https://ishaqalathamneh.github.io/reading-notes/401read/class17)|
 | [class18](https://ishaqalathamneh.github.io/reading-notes/401read/class18)|
 | [class19](https://ishaqalathamneh.github.io/reading-notes/401read/class19)|
+| [class26](https://ishaqalathamneh.github.io/reading-notes/401read/class26)|
