@@ -1,4 +1,4 @@
-# Props and State
+# Component Composition
 
 ## Questions
 1. Can a parent component access the state of a child component?
