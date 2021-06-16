@@ -33,3 +33,4 @@ I'm with you today to show you some important subjects.
 | [class27](https://ishaqalathamneh.github.io/reading-notes/401read/class27)|
 | [class28](https://ishaqalathamneh.github.io/reading-notes/401read/class28)|
 | [class29](https://ishaqalathamneh.github.io/reading-notes/401read/class29)|
+| [HashTable](https://ishaqalathamneh.github.io/reading-notes/401read/class30)|
