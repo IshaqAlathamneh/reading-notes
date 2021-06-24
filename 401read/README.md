@@ -39,3 +39,4 @@ I'm with you today to show you some important subjects.
 | [Context API](https://ishaqalathamneh.github.io/reading-notes/401read/class33)|
 | [class34](https://ishaqalathamneh.github.io/reading-notes/401read/class34)|
 | [class35](https://ishaqalathamneh.github.io/reading-notes/401read/class35)|
+| [class36](https://ishaqalathamneh.github.io/reading-notes/401read/class36)|
