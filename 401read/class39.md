@@ -1,4 +1,4 @@
-# Redux - Asynchronous Actions
+# Redux - Additional Topics
 
 ## Questions
 1. What’s the best practice for “pre-loading” data into the store (on application start) in a Redux application?

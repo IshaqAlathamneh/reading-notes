@@ -43,3 +43,5 @@ I'm with you today to show you some important subjects.
 | [class37](https://ishaqalathamneh.github.io/reading-notes/401read/class37)|
 | [class38](https://ishaqalathamneh.github.io/reading-notes/401read/class38)|
 | [class39](https://ishaqalathamneh.github.io/reading-notes/401read/class39)|
+| [class41](https://ishaqalathamneh.github.io/reading-notes/401read/class41)|
+| [Ethics](https://ishaqalathamneh.github.io/reading-notes/401read/class42)|
